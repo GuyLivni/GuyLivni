@@ -1,5 +1,5 @@
 <p align="center">
-	<img align="center" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="500px" height="250px">
+  <img align="center" src="https://github.com/GuyLivni/GuyLivni/blob/master/hello.gif" width="500px" height="250px">
 </p>
 
 # Hey! I’m Guy :wave: 
