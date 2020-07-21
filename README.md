@@ -1,8 +1,8 @@
 <p align="center">
-  <img align="center" src="https://github.com/GuyLivni/GuyLivni/blob/master/hello.gif" width="500px" height="250px">
+  <img align="center" src="https://github.com/GuyLivni/GuyLivni/blob/master/hello.gif" width="350px" height="150px">
 </p>
 
-# Hey! I’m Guy :wave: 
+## Hey! I’m Guy :wave: 
 
 💼 I work at <a href="https://www.babbel.com">Babbel</a> as a Señor Software Engineer <br/>
 
