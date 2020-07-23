@@ -12,13 +12,19 @@
 </p><!-- Badges by https://shields.io/ -->
 
 ##
+
 I live in Berlin, Germany but originally come from Israel. I love gaming, bouldering and a huge anime geek.<br/>
 For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a></p>
-
 <br/>
+
+## Where I am currently working at/as
+<p> I work at <a href="https://www.babbel.com">Babbel</a> as a Senior Software Engineer.<br/>
+  
+##
+
 <p>
 <!--   <img width="50%" align="right" alt="Guy's github stats" src="https://github-readme-stats.vercel.app/api?username=GuyLivni&show_icons=true&theme=cobalt&hide_rank=true" /> -->
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyLivni&hide_langs_below=1" alt="Guy's languages" /> 
+  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyLivni" alt="Guy's languages" /> 
   <code><img width="14%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="14%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="14%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -33,8 +39,7 @@ For more information about me, check out <a href="https://guylivni.github.io/">g
 </p>
 <br />
 
-### Where I am currently working at/as
-<p> I work at <a href="https://www.babbel.com">Babbel</a> as a Senior Software Engineer.<br/>
+##
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GuyLivni" alt="Hits" />
