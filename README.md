@@ -3,12 +3,9 @@
   <img align="center" src="https://github.com/GuyLivni/GuyLivni/blob/master/hello.gif" width="350px" height="150px">
 </p>
 
-## Hey! I’m Guy :wave: 
-
-<p>
-  💼 I work at <a href="https://www.babbel.com">Babbel</a> as a Señor Software Engineer, for more information about me, check out 
-  <a href="https://guylivni.github.io/">guylivni.github.io</a>
-</p>
+# Hey! I’m Guy
+I live in Berlin, Germany but originally come from Israel. I love gaming, bouldering and a huge anime geek.<br/>
+For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a></p>
 
 <br/>
 <p>
@@ -28,20 +25,22 @@
 </p>
 <br />
 
-##
+### Where I am currently working at/as
+<p> I work at <a href="https://www.babbel.com">Babbel</a> as a Senior Software Engineer.<br/>
 
-<div align="center">
-  <h3 align="center">Connect with me</h3>
-</div>
+### Get in touch
 <p align="center">
- <a href="https://www.linkedin.com/in/guylivni/" target="blank">
-  <img align="center" alt="Guy's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/guylivni/" target="_blank">
+  <img align="left" alt="Guy's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/guylivni/" target="blank">
-  <img align="center" alt="Guy's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://www.instagram.com/guylivni/" target="_blank">
+  <img align="left" alt="Guy's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/guy_livni" target="blank">
-  <img align="center" alt="Guy's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+ <a href="https://twitter.com/guy_livni" target="_blank">
+  <img align="left" alt="Guy's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="mailto:guylivni@gmail.com?subject=Hello!" target="_blank">
+  <img align="left" alt="Guy's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
  </a>
 </p>
 <p align="center">
