@@ -1,4 +1,5 @@
 
+<h1>Hey! I'm Guy</h1>
 <p align="center">
   <img align="center" src="https://github.com/GuyLivni/GuyLivni/blob/master/hello.gif" width="350px" height="150px">
 </p>
@@ -11,7 +12,7 @@
 </p>
 <!-- Badges by https://shields.io/ -->
 
-# Hey! I’m Guy
+#
 I live in Berlin, Germany but originally come from Israel. I love gaming, bouldering and a huge anime geek.<br/>
 For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a></p>
 
