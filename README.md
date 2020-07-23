@@ -11,7 +11,7 @@
 
 <p>
 <!--   <img width="50%" align="right" alt="Guy's github stats" src="https://github-readme-stats.vercel.app/api?username=GuyLivni&show_icons=true&theme=cobalt&hide_rank=true" /> -->
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyLivni&hide_langs_below=1" alt="Guy's languages" /> 
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyLivni&hide_langs_below=1" alt="Guy's languages" /> 
   <code><img width="14%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="14%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="14%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
