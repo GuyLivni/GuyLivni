@@ -9,10 +9,9 @@
   <a href="https://www.instagram.com/guylivni/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?logo=Instagram&labelColor=white" /></a>
   <a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white" /></a>
   <a href="mailto:guylivni@gmail.com?subject=Hello!" target="_blank"><img alt="email" src="https://img.shields.io/badge/-Gmail-blue?logo=Gmail&labelColor=white" /></a>
-</p>
-<!-- Badges by https://shields.io/ -->
+</p><!-- Badges by https://shields.io/ -->
 
-#
+##
 I live in Berlin, Germany but originally come from Israel. I love gaming, bouldering and a huge anime geek.<br/>
 For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a></p>
 
