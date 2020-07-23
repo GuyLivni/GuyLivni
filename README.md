@@ -5,10 +5,12 @@
 
 ## Hey! I’m Guy :wave: 
 
-💼 I work at <a href="https://www.babbel.com">Babbel</a> as a Señor Software Engineer <br/>
+<p>
+  💼 I work at <a href="https://www.babbel.com">Babbel</a> as a Señor Software Engineer, for more information about me, check out 
+  <a href="https://guylivni.github.io/">guylivni.github.io</a>
+</p>
 
-:barber: For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a>
-
+<br/>
 <p>
 <!--   <img width="50%" align="right" alt="Guy's github stats" src="https://github-readme-stats.vercel.app/api?username=GuyLivni&show_icons=true&theme=cobalt&hide_rank=true" /> -->
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyLivni&hide_langs_below=1" alt="Guy's languages" /> 
