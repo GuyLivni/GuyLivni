@@ -15,7 +15,6 @@
 
 I live in Berlin, Germany but originally come from Israel. I love gaming, bouldering and a huge anime geek.<br/>
 For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a></p>
-<br/>
 
 ## Where I am currently working at/as
 <p> I work at <a href="https://www.babbel.com">Babbel</a> as a Senior Software Engineer.<br/>
@@ -37,7 +36,7 @@ For more information about me, check out <a href="https://guylivni.github.io/">g
   <code><img width="14%" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
   <code><img width="14%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
 </p>
-<br />
+<br /><br /><br />
 
 ##
 
