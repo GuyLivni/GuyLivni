@@ -1,4 +1,3 @@
-
 <h1>Hey! I'm Guy</h1>
 <p align="center">
   <img align="center" src="https://github.com/GuyLivni/GuyLivni/blob/master/hello.gif" width="350px" height="150px">
@@ -36,7 +35,6 @@ For more information about me, check out <a href="https://guylivni.github.io/">g
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
 </p>
-<br /><br /><br />
 
 ##
 
