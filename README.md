@@ -3,13 +3,13 @@
   <img align="center" src="https://github.com/GuyLivni/GuyLivni/blob/master/hello.gif" width="350px" height="150px">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/guylivni/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=blue&labelColor=white&style=social" /></a>
-  <a href="https://www.facebook.com/guy.livni.9" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&labelColor=white&style=social" /></a>
-  <a href="https://www.instagram.com/guylivni/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?logo=Instagram&labelColor=white&style=social" /></a>
-  <a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white&style=social" /></a>
-  <a href="mailto:guylivni@gmail.com?subject=Hello!" target="_blank"><img alt="email" src="https://img.shields.io/badge/-Gmail-blue?logo=Gmail&labelColor=white&style=social" /></a>
-<a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white&style=social" /></a>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/GuyLivni?label=Follow&style=social">
+  <a href="https://www.linkedin.com/in/guylivni/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=blue&labelColor=white" /></a>
+  <a href="https://www.facebook.com/guy.livni.9" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&labelColor=white" /></a>
+  <a href="https://www.instagram.com/guylivni/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?logo=Instagram&labelColor=white" /></a>
+  <a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white" /></a>
+  <a href="mailto:guylivni@gmail.com?subject=Hello!" target="_blank"><img alt="email" src="https://img.shields.io/badge/-Gmail-blue?logo=Gmail&labelColor=white" /></a>
+<a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white" /></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/GuyLivni?label=Follow&logo=Github&labelColor=white&logoColor=black">
 </p><!-- Badges by https://shields.io/ -->
 
 ##
