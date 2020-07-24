@@ -1,5 +1,9 @@
 <h1>Hey! I'm Guy.</h1>
-<p align="right"><a href="https://github.com/GuyLivni"><img alt="GitHub followers" src="https://img.shields.io/github/followers/GuyLivni?label=Followers&style=social"></a></p>
+<p align="right">
+  <a href="https://github.com/GuyLivni" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/GuyLivni?label=Followers&style=social"></a>
+  <br/>
+  <a href="https://twitter.com/guy_livni" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/twitter/follow/guy_livni?label=Followers&style=social"></a>
+</p>
 
 <p align="center">
   <img align="center" src="https://github.com/GuyLivni/GuyLivni/blob/master/hello.gif" width="350px" height="150px">
@@ -8,9 +12,7 @@
   <a href="https://www.linkedin.com/in/guylivni/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=blue&labelColor=white" /></a>
   <a href="https://www.facebook.com/guy.livni.9" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&labelColor=white" /></a>
   <a href="https://www.instagram.com/guylivni/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?logo=Instagram&labelColor=white" /></a>
-  <a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white" /></a>
   <a href="mailto:guylivni@gmail.com?subject=Hello!" target="_blank"><img alt="email" src="https://img.shields.io/badge/-Gmail-blue?logo=Gmail&labelColor=white" /></a>
-<a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white" /></a>
 </p><!-- Badges by https://shields.io/ -->
 
 
