@@ -1,22 +1,25 @@
-<h1>Hey! I'm Guy</h1>
+<h1>Hey! I'm Guy.</h1>
 <p align="center">
   <img align="center" src="https://github.com/GuyLivni/GuyLivni/blob/master/hello.gif" width="350px" height="150px">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/guylivni/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=blue&labelColor=white" /></a>
-  <a href="https://www.facebook.com/guy.livni.9" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&labelColor=white" /></a>
-  <a href="https://www.instagram.com/guylivni/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?logo=Instagram&labelColor=white" /></a>
-  <a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white" /></a>
-  <a href="mailto:guylivni@gmail.com?subject=Hello!" target="_blank"><img alt="email" src="https://img.shields.io/badge/-Gmail-blue?logo=Gmail&labelColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guylivni/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=blue&labelColor=white&style=social" /></a>
+  <a href="https://www.facebook.com/guy.livni.9" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&labelColor=white&style=social" /></a>
+  <a href="https://www.instagram.com/guylivni/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?logo=Instagram&labelColor=white&style=social" /></a>
+  <a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white&style=social" /></a>
+  <a href="mailto:guylivni@gmail.com?subject=Hello!" target="_blank"><img alt="email" src="https://img.shields.io/badge/-Gmail-blue?logo=Gmail&labelColor=white&style=social" /></a>
+<a href="https://twitter.com/guy_livni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&labelColor=white&style=social" /></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/GuyLivni?label=Follow&style=social">
 </p><!-- Badges by https://shields.io/ -->
 
 ##
 
-I live in Berlin, Germany but originally come from Israel. I love gaming, bouldering and a huge anime geek.<br/>
+Hi, I'm a software developer. I can solve ~~all some one of your~~ problems.<br/>
+I live in Berlin, Germany 🇩🇪 but originally I come from Israel 🇮🇱. I love gaming, bouldering and a huge anime geek.<br/>
 For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a></p>
 
 ## Where I am currently working at/as
-<p> I work at <a href="https://www.babbel.com">Babbel</a> as a Senior Software Engineer.<br/>
+<p> I work at <a href="https://www.babbel.com">Babbel</a> as a Senior Software Engineer 👨‍💻<br/>
   
 ##
 
