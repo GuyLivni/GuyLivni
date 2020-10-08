@@ -18,7 +18,7 @@
 
 ##
 
-Hi, I'm a software developer. I can solve ~~all, some, one of your~~ problems.<br/>
+Hi, I'm a software developer. I can solve ~~all, some, one of your~~ problems!<br/>
 I live in Berlin, Germany 🇩🇪 but originally I come from Israel 🇮🇱. I love gaming, bouldering and a huge anime geek.<br/>
 For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a></p>
 
