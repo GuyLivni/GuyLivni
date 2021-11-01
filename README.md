@@ -23,7 +23,7 @@ I live in Berlin, Germany 🇩🇪 but originally I come from Israel 🇮🇱. I
 For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a></p>
 
 ## Where I am currently working at/as
-<p> I work at <a href="https://www.babbel.com">Babbel</a> as a Senior Software Engineer 👨‍💻<br/>
+<p> I work at <a href="https://www.wolt.com">Wolt</a> as a Software Engineer 👨‍💻<br/>
   
 ##
 
