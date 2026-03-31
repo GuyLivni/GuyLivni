@@ -13,7 +13,7 @@
   <a href="https://www.facebook.com/guy.livni.9" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&labelColor=white" /></a>
   <a href="https://www.instagram.com/guylivni/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?logo=Instagram&labelColor=white" /></a>
   <a href="mailto:guylivni@gmail.com?subject=Hello!" target="_blank"><img alt="email" src="https://img.shields.io/badge/-Gmail-blue?logo=Gmail&labelColor=white" /></a>
-</p><!-- Badges by https://shields.io/ -->
+</p>
 
 
 ##
@@ -29,8 +29,14 @@ For more information about me, check out <a href="https://guylivni.github.io/">g
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&for-the-badge&logo=react%20query&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&flat-square&for-the-badge&logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-555?flat-square&logo=claude)
+![D3.js](https://img.shields.io/badge/D3.JS-%23000000?style=flat-square&for-the-badge&logo=D3&logoColor=#ff823e)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&for-the-badge&logo=pnpm&logoColor=f69220)
 
+![Turborepo](https://img.shields.io/badge/turborepo-%23EF4444.svg?style=flat-square&for-the-badge&logo=turborepo&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
@@ -38,6 +44,9 @@ For more information about me, check out <a href="https://guylivni.github.io/">g
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&for-the-badge&logo=figma&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&for-the-badge&logo=gatsby&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000?style=flat-square&for-the-badge&logo=shadcnui&logoColor=white)
 
 ##
 
