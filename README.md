@@ -19,27 +19,25 @@
 ##
 
 Hi, I'm a software developer. I can solve ~~all, some, one of your~~ problems!<br/>
-I live in Berlin, Germany 🇩🇪 but originally I come from Israel 🇮🇱. I love gaming, bouldering and a huge anime geek.<br/>
+I live in Berlin, Germany 🇩🇪, but originally I come from Israel 🇮🇱. I love gaming and bouldering, and I am a huge anime geek.<br/>
 For more information about me, check out <a href="https://guylivni.github.io/">guylivni.github.io</a></p>
 
 ##
 
-<p>
-<!--   <img width="50%" align="right" alt="Guy's github stats" src="https://github-readme-stats.vercel.app/api?username=GuyLivni&show_icons=true&theme=cobalt&hide_rank=true" /> -->
-<!--   <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyLivni" alt="Guy's languages" />  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/hapijs/hapijs-ar21.svg"></code>
-  <br />
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
 ##
 
